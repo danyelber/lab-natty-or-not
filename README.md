@@ -21,7 +21,7 @@ Edição de Impacto: No DaVinci Resolve, adicionei transições fluidas, trilha 
 ## 🚀 Resultados
 O vídeo convida o espectador a explorar o lado artístico e emocional da IA, mostrando como ela transforma o conceito de criatividade em algo coletivo e sem limites.
 
-<video src="20250114_1911_Blend Video_blend_01jhkdxxgbekjakhy5q07zh193" controls="controls" style="max-width: 100%;"></video>
+[Assista ao vídeo](20250114_1911_Blend Video_blend_01jhkdxxgbekjakhy5q07zh193)
 
 
 ## 💭 Reflexão (Opcional)
